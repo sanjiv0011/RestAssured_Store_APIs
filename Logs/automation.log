@@ -1,0 +1,96 @@
+13:01:16.721 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sanjiv_QA\Eclipse Project\Swagger_API_Store_ModuleProject\testng.xml
+
+13:01:17.018 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+13:01:20.062 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+13:01:20.080 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+13:01:21.343 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+13:01:22.546 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+13:01:23.797 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+13:01:59.347 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Sanjiv_QA\Eclipse Project\Swagger_API_Store_ModuleProject\testng.xml
+
+13:01:59.642 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+13:02:02.591 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+13:02:02.610 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+13:02:03.774 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+13:02:05.026 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+13:02:06.350 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+13:02:06.372 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+13:02:07.554 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+13:02:07.560 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+13:02:08.742 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+13:02:09.894 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+13:02:11.088 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+13:50:28.219 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+13:50:31.286 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+13:50:31.304 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+13:50:32.380 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+13:50:33.492 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+13:50:34.609 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+13:50:34.615 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+13:50:36.425 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+13:50:36.428 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+13:50:37.498 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+13:50:39.689 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+13:50:40.719 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+18:44:52.346 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+18:44:55.459 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+18:44:55.492 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+18:44:56.648 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+18:44:57.684 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+18:44:58.885 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+18:44:58.898 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+18:44:59.975 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+18:44:59.979 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+18:45:01.082 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+18:45:02.124 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+18:45:03.217 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+18:50:44.815 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+18:50:47.907 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+18:50:47.948 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+18:50:49.138 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+18:50:50.179 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+18:50:51.231 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+18:50:51.250 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+18:50:52.315 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+18:50:52.319 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+18:50:53.394 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+18:50:54.544 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+18:50:55.599 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+09:43:58.693 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+09:44:01.635 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+09:44:01.656 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+09:44:02.888 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+09:44:04.145 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+09:44:05.386 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+09:44:05.403 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+09:44:06.555 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+09:44:06.557 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+09:44:07.595 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+09:44:08.780 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+09:44:09.879 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+09:50:32.509 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+09:50:35.365 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+09:50:35.380 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+09:50:36.562 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+09:50:37.751 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+09:50:38.905 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+09:50:38.918 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+09:50:40.035 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+09:50:40.042 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+09:50:41.140 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+09:50:42.244 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+09:50:43.264 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
+09:51:59.850 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Creating User*
+09:52:02.949 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *User Created*
+09:52:02.990 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Odres info*
+09:52:04.086 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Reading Inventory info*
+09:52:05.323 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Deleting users*
+09:52:06.388 [main] INFO  swagger.api.store.test.StoreTest_From_PropertiesFiles - *Users Deleted*
+09:52:06.392 [main] INFO  swagger.api.store.test.StoreTest - *Creating User*
+09:52:07.613 [main] INFO  swagger.api.store.test.StoreTest - *User Created*
+09:52:07.615 [main] INFO  swagger.api.store.test.StoreTest - *Reading Odres info*
+09:52:08.731 [main] INFO  swagger.api.store.test.StoreTest - *Reading Inventory info*
+09:52:09.761 [main] INFO  swagger.api.store.test.StoreTest - *Deleting users*
+09:52:10.888 [main] INFO  swagger.api.store.test.StoreTest - *Users Deleted*
